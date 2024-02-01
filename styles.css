@@ -20,6 +20,9 @@ h2 {
 h4 {
   font-weight: bold;
 }
+.h4-prescription {
+  padding-top: 60px;
+}
 p {
   line-height: 1.5;
   overflow: hidden;
